@@ -1,0 +1,6 @@
+{
+  "name": "Social Network Friend Recommendation - DAA Project",
+  "description": "An interactive social network simulation and graph algorithm analysis platform demonstrating BFS, DFS, Degree Centrality, and Connected Components for friend recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
